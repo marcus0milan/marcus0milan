@@ -27,6 +27,6 @@
   
 </div>
 
-![snake](https://raw.githubusercontent.com/marcus0milan/marcus0milan/output/snake-purple.svg)
+![snake](https://raw.githubusercontent.com/marcus0milan/marcus0milan/snake-output/snake.svg)
 
 ###
